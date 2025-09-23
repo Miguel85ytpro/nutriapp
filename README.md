@@ -1,4 +1,5 @@
 # Actividad - Repositorio nutriApp
+## objetivo = Hacer una app para saber como alimentarte correctamente y controlar tu peso
 ## Nombre = Miguel Angel Carcamo Limon
 ## correo = 24308060610616@cetis61.edu.mx
 ## Programación = Emplea Framework para el Desarrollo de Software
